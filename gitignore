@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+# Ignore dataset and large files
+Data/
+=======
+*.dvc
+models/
+*.h5
+*.keras
